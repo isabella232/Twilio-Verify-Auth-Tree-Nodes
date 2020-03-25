@@ -21,7 +21,7 @@ An authentication node for ForgeRock's Identity Platform 6.0.0 and above which i
 ## Usage 
 
 To deploy these nodes, download the jar from the releases tab on github 
-[here](https://github.com/ForgeRock/Twilio-Auth-Tree-Nodes/releases/latest). Next, copy the jar into the 
+[here](https://github.com/ForgeRock/Twilio-Verify-Auth-Tree-Nodes/releases/latest). Next, copy the jar into the 
 ../web-container/webapps/openam/WEB-INF/lib directory where AM is deployed. Restart the web container to pick up the 
 new node. The node will then appear in the authentication trees components palette.
 
